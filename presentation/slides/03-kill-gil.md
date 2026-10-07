@@ -1,4 +1,4 @@
-# Kill GIL
+# Kill GIL, again
 
 > free-threading (PEP 703, PEP 779) + stable ABI abi3t (PEP 803)\
 > 1996 první patch a stable ABI po **30 letech**
