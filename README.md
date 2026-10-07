@@ -1,4 +1,4 @@
-# Python 3.15
+# Python 3.15 coming
 
 - [1 - Nobody expects the Python 3.15 release](presentation/slides/01-timeline.md)
 - [2 - Co je ve 3.15 nového](presentation/slides/02-features.md)
