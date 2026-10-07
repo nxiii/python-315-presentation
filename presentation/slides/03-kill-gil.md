@@ -18,7 +18,7 @@
 - významné zrychlení u multithread CPU-bound kódu v Pythonu
 - žádná změna u multithread I/O-bound (síť, disk) kódu
 - single-thread výkon půjde dolu o 5 % - 10 %
-
+- naučí tě používat threading.Lock a queue.*
 
 ## Proč je 3.15 důležitá: abi3t
 
