@@ -13,7 +13,9 @@
 
 ```
 Our chief weapon is backwards compatibility…
+
 backwards compatibility and performance…
+
 performance and free-threading…
 ```
 
